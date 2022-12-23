@@ -70,6 +70,47 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 <img alt="PHP Storm" src="https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-PHP%20Storm-20232A?logo=phpstorm&logoColor=white&style=for-the-badge`|
 <img alt="Dream Weaver" src="https://img.shields.io/badge/-adobe_dreamweaver-FF61F6?logo=adobe-dreamweaver&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-adobe_dreamweaver-FF61F6?logo=adobe-dreamweaver&logoColor=white&style=for-the-badge`|
 
+### Bancos de Dados
+
+|Distintivo |Código |
+--- |--- |
+<img alt="mySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge`|
+<img alt="mariaDB" src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge`|
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge`|
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge`|
+<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge`|
+<img alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge`|
+<img alt="Oracle Database" src="https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge`|
+<img alt="Redis" src="https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge`|
+
+### Virtualização e afins
+
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge`|
+<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge`|
+<img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge`|
+<img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge`|
+<img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge`|
+<img alt="Hyper-V" src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge`|
+
+### Sistemas Operacionais
+
+<img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge`|
+<img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />|`https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge`|
+<img alt="Mac OS" src="https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge`|
+
+### Data Centers
+
+<img alt="Digital Ocean" src="https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge`|
+<img alt="Vultr" src="https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge`|
+
+### Ensino
+
+<img alt="Moodle" src="https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
+<img alt="Google Classroom" src="https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
+<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge`|
+<img alt="Meet" src="https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge`|
+<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge`|
+
 ### Habilidades
 
 |Distintivo |Código |
@@ -94,14 +135,6 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge`|
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge`|
 <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge`|
-<img alt="mySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge`|
-<img alt="mariaDB" src="https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MariaDB-01529E?logo=mariadb&logoColor=white&style=for-the-badge`|
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge`|
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge`|
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge`|
-<img alt="MS SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge`|
-<img alt="Oracle Database" src="https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge`|
-<img alt="Redis" src="https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Redis-D9281A?logo=redis&logoColor=white&style=for-the-badge`|
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge`|
 <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge`|
 <img alt="PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge`|
@@ -114,22 +147,6 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 <img alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white&style=for-the-badge`|
 <img alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Apache-CA2136?logo=apache&logoColor=white&style=for-the-badge`|
 <img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge`|
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge`|
-<img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge`|
-<img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge`|
-<img alt="VMWare" src="https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-VMWare-607078?logo=vmware&logoColor=white&style=for-the-badge`|
-<img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge`|
-<img alt="Hyper-V" src="https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-Hyper_V-017AD7?logoColor=white&style=for-the-badge`|
 <img alt="Git" src="https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge`|
-<img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge`|
-<img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />|`https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge`|
-<img alt="Mac OS" src="https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge`|
-<img alt="Digital Ocean" src="https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge`|
-<img alt="Vultr" src="https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge`|
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge`|
 <img alt="Woo Commerce" src="https://img.shields.io/badge/Woo_Commerce-96588A?logo=woo&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Woo_Commerce-96588A?logo=woo&logoColor=white&style=for-the-badge`|
-<img alt="Moodle" src="https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
-<img alt="Google Classroom" src="https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
-<img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge`|
-<img alt="Meet" src="https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Meet-00897B?logo=google-meet&logoColor=white&style=for-the-badge`|
-<img alt="Teams" src="https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Teams-6264A7?logo=microsoft-teams&logoColor=white&style=for-the-badge`|
