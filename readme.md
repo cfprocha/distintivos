@@ -5,7 +5,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 1. Localize o logotipo que deseja usar no seu distintivo, através do site [Simple Icons](https://simpleicons.org/)
 
 2. Monte a URL para o distintivo, da seguinte forma:
-    a) Comece com esse trecho de URL: https://img.shields.io/badge
+    a) Comece com esse trecho de URL: <span>**https://img.shields.io/badge**</span>
         Sim, vamos usar o site [shields.io](https://img.shields.io/badge) para a criação
 
     b) Agora adicione o texto que deseja escrito no distintivo. Inicie com um hífen, para deixar um espaço entre o escudo e o texto e se for um texto composto (duas ou mais palavras) use um sublinhado ou o %20 para separar elas. 
@@ -34,6 +34,6 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 3. Agora incorpore essa URL ao seu readme.md usando a tag IMG do HTML, conforme demonstrado abaixo:
 
     \<img alt="VS Code" src="https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /\>
-    
+
     Não esqueça do atributo **alt** para garantir que seja apresentado um texto para usuários que não tenham como visualizar a imagem
 
