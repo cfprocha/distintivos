@@ -10,6 +10,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
         Sim, vamos usar o site [shields.io](https://img.shields.io/badge) para a criação
 
     b) Agora adicione o texto que deseja escrito no distintivo. Inicie com um hífen, para deixar um espaço entre o escudo e o texto e se for um texto composto (duas ou mais palavras) use um sublinhado ou o %20 para separar elas. 
+    
     Exs.: https[]()://img.shields.io/badge/-vs_code
           https[]()://img.shields.io/badge/-vs%20code
 
