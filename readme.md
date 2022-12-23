@@ -85,6 +85,8 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 
 ### Virtualização e afins
 
+|Distintivo |Código |
+--- |--- |
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge`|
 <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge`|
 <img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/QEMU-FF6600?logo=qemu&logoColor=white&style=for-the-badge`|
@@ -94,17 +96,23 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 
 ### Sistemas Operacionais
 
+|Distintivo |Código |
+--- |--- |
 <img alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge`|
 <img alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge" />|`https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge`|
 <img alt="Mac OS" src="https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Mac_OS-20232A?logo=apple&logoColor=white&style=for-the-badge`|
 
 ### Data Centers
 
+|Distintivo |Código |
+--- |--- |
 <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Digital Ocean-navy?logo=digitalocean&logoColor=white&style=for-the-badge`|
 <img alt="Vultr" src="https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Vultr-007BFC?logo=vultr&logoColor=white&style=for-the-badge`|
 
 ### Ensino
 
+|Distintivo |Código |
+--- |--- |
 <img alt="Moodle" src="https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Moodle-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
 <img alt="Google Classroom" src="https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Google_ClassRoom-0F9D58?logo=google-classroom&logoColor=white&style=for-the-badge`|
 <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white&style=for-the-badge`|
