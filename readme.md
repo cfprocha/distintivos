@@ -5,6 +5,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 1. Localize o logotipo que deseja usar no seu distintivo, através do site [Simple Icons](https://simpleicons.org/)
 
 2. Monte a URL para o distintivo, da seguinte forma:
+
     a) Comece com esse trecho de URL: https://img.shields.io/badge
         Sim, vamos usar o site [shields.io](https://img.shields.io/badge) para a criação
 
