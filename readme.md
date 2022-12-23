@@ -124,7 +124,10 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 |Distintivo |Código |
 --- |--- |
 <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge`|
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge`|
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge`|
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge`|
+<img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white&style=for-the-badge`|
 <img alt="HTML5" src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge`|
 <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge`|
 <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white&style=for-the-badge`|
@@ -141,6 +144,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 <img alt="PHP myAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?logo=phpmyadmin&logoColor=white&style=for-the-badge`|
 <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge`|
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge`|
+<img alt="Perl" src="https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Perl-39457E?logo=perl&logoColor=white&style=for-the-badge`|
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge`|
 <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white&style=for-the-badge`|
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />|`https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge`|
