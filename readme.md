@@ -12,6 +12,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
     b) Agora adicione o texto que deseja escrito no distintivo. Inicie com um hífen, para deixar um espaço entre o escudo e o texto e se for um texto composto (duas ou mais palavras) use um sublinhado ou o %20 para separar elas. 
     
     Exs.: https[]()://img.shields.io/badge/-vs_code
+    
           https[]()://img.shields.io/badge/-vs%20code
 
     c) Defina a cor que deseja no fundo do seu distintivo. Recomendo que use a cor indicada no próprio site do Simple Icons. Só atente que no site ele indica o código hex da cor, colocando um # na frente dos números e aqui precisamos apenas dos números. A cor deve ser informada inserindo um hífen após o texto do distintivo, conforme demonstrado abaixo.
