@@ -30,8 +30,10 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
     style=plastic
     style=flat-square
     logoWidth=** (aqui informe uma quantidade de pixels)
-    
+
 3. Agora incorpore essa URL ao seu readme.md usando a tag IMG do HTML, conforme demonstrado abaixo:
+
     \<img alt="VS Code" src="https://img.shields.io/badge/-vs_code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" /\>
+    
     Não esqueça do atributo **alt** para garantir que seja apresentado um texto para usuários que não tenham como visualizar a imagem
 
