@@ -7,6 +7,7 @@ O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 2. Monte a URL para o distintivo, da seguinte forma:
 
     a) Comece com esse trecho de URL: https://img.shields.io/badge
+    
         Sim, vamos usar o site [shields.io](https://img.shields.io/badge) para a criação
 
     b) Agora adicione o texto que deseja escrito no distintivo. Inicie com um hífen, para deixar um espaço entre o escudo e o texto e se for um texto composto (duas ou mais palavras) use um sublinhado ou o %20 para separar elas. 
