@@ -1,4 +1,5 @@
 ## Como criar Distintivos para o Github?
+
 O processo é muito simples e vou ensiná-lo passo-a-passo aqui:
 
 1. Localize o logotipo que deseja usar no seu distintivo, através do site [Simple Icons](https://simpleicons.org/)
